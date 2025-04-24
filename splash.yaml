@@ -1,0 +1,11 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#272727"  # Perbaiki warna
+  image: assets/logos/logo_tahu.png
+
+android_12:  # Perbaiki typo
+  color: "#FFFFFF"
+  color_dark: "#272727"  # Perbaiki warna
+  image: assets/logos/logo_tahu.png
+
+web: false
